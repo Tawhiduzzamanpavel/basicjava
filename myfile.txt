@@ -1,0 +1,6 @@
+{
+"desegnation":"Student",
+"address":{"area":"ZakirHossainRoad","city":"Dhaka","po":"Mohd"},
+"name":"Pavel",
+"dept":"CSE"
+}
